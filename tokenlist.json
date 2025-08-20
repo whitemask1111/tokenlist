@@ -1,0 +1,21 @@
+{
+  "name": "IO Beats Token List",
+  "logoURI": "https://raw.githubusercontent.com/whitemask1111/tokenlist/main/IOB.svg",
+  "keywords": ["music", "defi", "io beats"],
+  "timestamp": "2025-08-20T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x80A23f168831D6e1f0a1353DbF3a75CAE16cb709",
+      "name": "IO Beats",
+      "symbol": "IOB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/whitemask1111/tokenlist/main/IOB.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
